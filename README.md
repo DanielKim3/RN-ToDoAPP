@@ -1,4 +1,4 @@
-# 리액트네이티브-ToDoAPP (투두앱_ios)
+# 리액트네이티브-ToDoAPP (투두앱_ios)!
 
 ### 1. 할 일 추가
 <img src = "https://user-images.githubusercontent.com/85281109/150509460-ed78bc84-5600-4a7f-96f1-e022125720b8.png" width="30%" height="30%">
