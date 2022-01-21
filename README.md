@@ -1,4 +1,6 @@
-# 리액트네이티브-ToDoAPP (투두앱_ios)!
+# 리액트네이티브-ToDoAPP (투두앱_ios&android)
+
+### 0. yarn ios, yarn android 하시면 실행됩니다!
 
 ### 1. 할 일 추가
 <img src = "https://user-images.githubusercontent.com/85281109/150511866-711955b4-3a42-46c2-ba9c-33db24151590.png" width="30%" height="30%">
